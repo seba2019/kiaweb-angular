@@ -1,0 +1,13 @@
+.float-card{
+    position: absolute;
+    top: 180px;
+    right: 35px;
+    background-color:#2125296E !important;
+    width: 400px;
+}
+
+.img-header{
+    object-fit: cover;
+    object-position: top;
+    height: 500px;
+}

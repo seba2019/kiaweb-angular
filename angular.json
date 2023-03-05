@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/FontAwesome/css/all.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/FontAwesome/js/all.min.js"
+            ]
           },
           "configurations": {
             "production": {

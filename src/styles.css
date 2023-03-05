@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+a{
+    color: #ffffff !important;
+}
+body{
+    background-color: #212529 !important;
+    color: #ffffff;
+}
+.hover-dark-text:hover{
+    color: #212529 !important;
+}
+/* p{
+    color: #FF00E0 !important;
+} */
